@@ -1,3 +1,0 @@
-/home/nefreak/ais/hltv/CMakeFiles/db_engine.dir
-/home/nefreak/ais/hltv/CMakeFiles/edit_cache.dir
-/home/nefreak/ais/hltv/CMakeFiles/rebuild_cache.dir

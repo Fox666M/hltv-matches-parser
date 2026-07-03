@@ -1,4 +1,9 @@
 build/
 db_engine
 database.json
-.vscode/
+.vscode/CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+dump.html
+imgui.ini
